@@ -1,0 +1,17 @@
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.pdb
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csprojAssemblyReference.cache
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.exe
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.pdb
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.MainForm.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.HowToPlay.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.ChoosePlayer.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.OnePlayer.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.TwoPlayer.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.HTP1Player.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.HTP2Player.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.PlayerName.resources
+G:\IT\OOP\Projects\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.SaveScore.resources
